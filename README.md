@@ -1,5 +1,4 @@
 # Nested Arrays Lab
-
 ## Learning Goals
 
 1. Recognize vocabulary term: "array of array" or ("AoA")
